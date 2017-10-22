@@ -6,6 +6,8 @@ is used to build for multiple platforms.
 
 Created by: [Bobby Villaluz](https://github.com/bobbyvillaluz) and [Andrew Schembor](https://github.com/schembora)
 
+![](https://i.imgur.com/y9QBPlH.jpg =192x320)
+
 # Build the App
 
 Here's an [introduction to PhoneGap](http://docs.phonegap.com/getting-started/), the framework used to create this application.
