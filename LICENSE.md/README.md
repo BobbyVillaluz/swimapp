@@ -6,7 +6,7 @@ is used to build for multiple platforms.
 
 Created by: [Bobby Villaluz](https://github.com/bobbyvillaluz) and [Andrew Schembor](https://github.com/schembora)
 
-![](https://i.imgur.com/y9QBPlH.jpg)
+[Here](https://imgur.com/a/QUDvY) are some screenshots of the app.
 
 # Build the App
 
