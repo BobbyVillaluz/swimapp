@@ -1,0 +1,121 @@
+body {
+  padding-top: 50px;
+  font-size: 16px;
+}
+.starter-template {
+  padding: 10px 15px;
+  text-align: center;
+}
+
+.maroon {
+	background-color: #800000;
+}
+
+table {
+	margin: 20px auto;
+}
+
+th, td  {
+	padding: 10px 20px;
+	text-align: center;
+}
+
+th {
+    background-color: #800000;
+    color: white;
+}
+
+tr:nth-child(even){
+	background-color: #f2f2f2;
+}
+
+h3 {
+	background-color: grey;
+	border-radius: 5px;
+	color: white;
+	padding: 7px 0;
+	margin: 20px;
+	font-size: 21px;
+}
+
+.btn-primary  {
+	background-color: #800000;
+	border-color: #800000;
+}
+
+.btn-primary:active:hover , .btn-primary:hover {
+	background-color: #6c0000;
+}
+
+.modal-load {
+    display:    none;
+    position:   fixed;
+    z-index:    1000;
+    top:        0;
+    left:       0;
+    height:     100%;
+    width:      100%;
+    background: rgba( 255, 255, 255, .8 ) 
+                url('../img/FhHRx.gif') 
+                50% 50% 
+                no-repeat;
+}
+
+/* When the body has the loading class, we turn
+   the scrollbar off with overflow:hidden */
+body.loading {
+    overflow: hidden;   
+}
+
+/* Anytime the body has the loading class, our
+   modal element will be visible */
+body.loading .modal-load {
+    display: block;
+}
+label {
+	float: left;
+}
+
+ /* For tablet */
+@media (min-width: 768px) {
+    body, .navbar-brand {
+		font-size: 22px;
+	}
+	
+	.starter-template {
+		font-size: 32px;
+	}
+	
+	label  {
+		float: none;
+	}
+	
+	.btn-lg {
+		padding: 15px 21px;
+		font-size: 24px;
+	}
+	
+	h3 {
+		margin-left: 28%;
+		margin-right: 28%;
+		font-size: 32px;
+	}
+	
+	h1 {
+		font-size: 64px;
+	}
+	
+	h2 {
+		font-size: 48px;
+	}
+	
+	.modal-body .btn {
+		font-size: 36px;
+		width: 60%;
+	}
+	
+	input[type="radio"] {
+		width: 18px;
+		height: 18px;
+	}
+}
