@@ -8,9 +8,13 @@ Created by: [Bobby Villaluz](https://github.com/bobbyvillaluz) and [Andrew Schem
 
 # Build the App
 
+Here's an [introduction to PhoneGap](http://docs.phonegap.com/getting-started/), the framework used to create this application.
+
 Follow [this tutorial](http://docs.phonegap.com/references/desktop-app/open-project/) to import the project into PhoneGap.
 If that procedure fails, try to create a new PhoneGap project and replace the
 new project files with the Swim App files.
+
+After importing the project you can [preview the app](http://docs.phonegap.com/getting-started/4-preview-your-app/desktop/) to test its features and interface design.
 
 Once you have made any desired customizations to the app (or if you're satisfied
 with the default), you can [build the application](http://docs.phonegap.com/getting-started/5-going-further/) either locally using PhoneGap CLI
